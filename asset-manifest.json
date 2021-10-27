@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lontokkayo/static/css/main.dfa66350.chunk.css",
-    "main.js": "/lontokkayo/static/js/main.f55a8b49.chunk.js",
-    "main.js.map": "/lontokkayo/static/js/main.f55a8b49.chunk.js.map",
+    "main.js": "/lontokkayo/static/js/main.f9b48e44.chunk.js",
+    "main.js.map": "/lontokkayo/static/js/main.f9b48e44.chunk.js.map",
     "runtime-main.js": "/lontokkayo/static/js/runtime-main.467ffc04.js",
     "runtime-main.js.map": "/lontokkayo/static/js/runtime-main.467ffc04.js.map",
     "static/css/2.0a9ec390.chunk.css": "/lontokkayo/static/css/2.0a9ec390.chunk.css",
@@ -38,6 +38,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.b4789d78.chunk.js",
     "static/css/main.dfa66350.chunk.css",
-    "static/js/main.f55a8b49.chunk.js"
+    "static/js/main.f9b48e44.chunk.js"
   ]
 }
