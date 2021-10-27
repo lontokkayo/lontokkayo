@@ -44,16 +44,11 @@ const Login = details => {
     <div className="welcome">
       
    
-          <Router>
+          
               <Navbar />
-                <Switch>
-                  <Route path='/barangaymap' exact component={Map}/>
-                    <Route path='/history' component={History}/>
-                     <Route path='/create' component={Create}/>
-                    <Route path='/reset' component={Reset}/>
+         
                     <Map/>
-                </Switch>
-            </Router>
+            
             
       </div>
     ) : (
