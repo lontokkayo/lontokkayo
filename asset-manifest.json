@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lontokkayo/static/css/main.dfa66350.chunk.css",
-    "main.js": "/lontokkayo/static/js/main.db6999cf.chunk.js",
-    "main.js.map": "/lontokkayo/static/js/main.db6999cf.chunk.js.map",
+    "main.js": "/lontokkayo/static/js/main.f55a8b49.chunk.js",
+    "main.js.map": "/lontokkayo/static/js/main.f55a8b49.chunk.js.map",
     "runtime-main.js": "/lontokkayo/static/js/runtime-main.467ffc04.js",
     "runtime-main.js.map": "/lontokkayo/static/js/runtime-main.467ffc04.js.map",
     "static/css/2.0a9ec390.chunk.css": "/lontokkayo/static/css/2.0a9ec390.chunk.css",
@@ -25,6 +25,7 @@
     "static/media/clickExit.678c6c3f.wav": "/lontokkayo/static/media/clickExit.678c6c3f.wav",
     "static/media/landscapeSys.62e9952e.png": "/lontokkayo/static/media/landscapeSys.62e9952e.png",
     "static/media/logotop.170ae251.PNG": "/lontokkayo/static/media/logotop.170ae251.PNG",
+    "static/media/marker2.2d9c251f.PNG": "/lontokkayo/static/media/marker2.2d9c251f.PNG",
     "static/media/pic1.68af99ce.PNG": "/lontokkayo/static/media/pic1.68af99ce.PNG",
     "static/media/resetaccount.dac00712.PNG": "/lontokkayo/static/media/resetaccount.dac00712.PNG",
     "static/media/side.27d7b4a9.PNG": "/lontokkayo/static/media/side.27d7b4a9.PNG",
@@ -37,6 +38,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.b4789d78.chunk.js",
     "static/css/main.dfa66350.chunk.css",
-    "static/js/main.db6999cf.chunk.js"
+    "static/js/main.f55a8b49.chunk.js"
   ]
 }
