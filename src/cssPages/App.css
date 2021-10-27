@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  body{
+    background-image: url('../background/background123.PNG');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+/*.error p{
+    color:rgb(131, 5, 5);
+    background: rgb(255, 110, 110);
+    padding: 10px;
+    font-size: 10px;
+    border-radius: 5px;
+    bottom: 25vmax;
+    width:100%;
+  }
+  body{
+    background-image: url('../background/NBBS-BG.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*/

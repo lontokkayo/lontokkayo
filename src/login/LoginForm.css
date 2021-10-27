@@ -1,0 +1,73 @@
+.background{
+    background-image:url('../background/NBBS-BG.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0.5;
+}
+.form-inner{
+    position:relative;
+}
+.Login-form{
+    position:relative;
+    background:rgba(255, 255, 255, 0.9);
+    box-shadow: rgba(0, 0, 0, 0.966) 10px 10px 15px;
+    width: fit-content;
+    border-radius:10px;
+    padding: 50px;
+    margin-top: 15vmin;
+    margin-left: 100px;
+    margin-right: 60%;
+    display: block;
+    float: left;
+}
+#Login-btn{
+    position:relative;
+    background: rgb(36, 36, 36);
+    border-radius: 6px;
+    padding: 2vmin;
+    margin-top: 5%;
+    color: white;
+    border: none;
+}
+#Login-btn:hover{
+    background-color: rgb(243, 76, 54, 0.7);
+    transition: 550ms;
+    color: rgb(36, 36, 36);
+}
+.Title-form{
+    position:relative;
+    color:white;
+    text-align:left;
+    background: rgb(189, 59, 42);
+    padding:20px;
+}
+.Photo{
+    position:fixed;
+    left: 50%;
+    margin-top:3vh;
+}
+.image-side{
+    float: right;
+    width: 90vh;
+}
+#form-email{
+    padding:1.50vmin;
+    font-size:12px;
+    border-radius:8px;
+}
+#form-password{
+    padding:1.50vmin;
+    font-size:12px;
+    border-radius:8px;
+
+}

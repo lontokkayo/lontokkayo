@@ -1,0 +1,17 @@
+.back{
+    background-image:url('../background/background123.PNG');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    min-height: 100%;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+.image-side-map{
+    width: 31%;
+    margin-left: 50px;
+    margin-top: 3%;
+}

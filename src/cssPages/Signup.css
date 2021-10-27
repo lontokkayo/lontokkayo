@@ -1,0 +1,32 @@
+.create-account{
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: rgba(0, 0, 0, 0.966) 0px 5px 15px;
+    margin: 0% auto;
+    width: 40vmax;
+    background-color: white;
+}
+#btnn{
+    border:none;
+    padding: 2vmin;
+    border-radius:8px;
+    background:rgb(17, 17, 17,0.925);
+}
+#btnn:hover{
+    background-color: rgb(243, 76, 54, 0.7);
+    color:black;
+}
+.custom-select{
+    padding: 3px;
+}
+.sign{
+    background-image:url('../background/background123.PNG');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 587px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
