@@ -44,9 +44,9 @@ const Login = details => {
     <div className="welcome">
       
    
-          
-                       <Router>
+          <Router>
               <Navbar />
+              
                 <Switch>
                   <Route path='/barangaymap' exact component={Map}/>
                     <Route path='/history' component={History}/>
@@ -55,7 +55,6 @@ const Login = details => {
                     <Map/>
                 </Switch>
             </Router>
-            
             
       </div>
     ) : (
