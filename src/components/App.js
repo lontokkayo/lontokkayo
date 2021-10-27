@@ -52,7 +52,7 @@ const Login = details => {
                     <Route path='/history' component={History}/>
                      <Route path='/create' component={Create}/>
                     <Route path='/reset' component={Reset}/>
-                    <Map/>
+                   
                 </Switch>
             </Router>
             
