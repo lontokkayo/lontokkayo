@@ -11,6 +11,7 @@ import Sound from "../sounds/alertsound.mp3";
 import rSound from "../sounds/clickExit.wav";
 import { doc, deleteDoc, setDoc} from "firebase/firestore"
 import silenceSound from "../sounds/silence.mp3";
+import marker2 from "../markers/marker2.PNG"
 import PlayButton from 'react-play-button';
 import { db, auth } from "../firebase"
 import {Howl, Howler} from 'howler'
@@ -177,7 +178,7 @@ export default function Map(){
             { listItem.map(item => (
               
                <Marker style={{width:"1vw ", height: "1vh"}} 
-               icon={{url: "public/marker2.PNG", scaledSize: new window.google.maps.Size(27,35), 
+               icon={{url: marker2, scaledSize: new window.google.maps.Size(27,35), 
                       origin: new window.google.maps.Point(0,0)
               }} 
               key={item.id} position={{lat: item.lat, lng: item.lng}}
