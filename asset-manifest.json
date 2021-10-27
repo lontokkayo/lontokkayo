@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/lontokkayo/static/css/main.dfa66350.chunk.css",
+    "main.js": "/lontokkayo/static/js/main.ad16acad.chunk.js",
+    "main.js.map": "/lontokkayo/static/js/main.ad16acad.chunk.js.map",
+    "runtime-main.js": "/lontokkayo/static/js/runtime-main.467ffc04.js",
+    "runtime-main.js.map": "/lontokkayo/static/js/runtime-main.467ffc04.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/lontokkayo/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.b4789d78.chunk.js": "/lontokkayo/static/js/2.b4789d78.chunk.js",
+    "static/js/2.b4789d78.chunk.js.map": "/lontokkayo/static/js/2.b4789d78.chunk.js.map",
+    "index.html": "/lontokkayo/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/lontokkayo/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.dfa66350.chunk.css.map": "/lontokkayo/static/css/main.dfa66350.chunk.css.map",
+    "static/js/2.b4789d78.chunk.js.LICENSE.txt": "/lontokkayo/static/js/2.b4789d78.chunk.js.LICENSE.txt",
+    "static/media/NBBS LOGO.7b276994.PNG": "/lontokkayo/static/media/NBBS LOGO.7b276994.PNG",
+    "static/media/LoginForm.css": "/lontokkayo/static/media/NBBS-BG.bb27e6ba.jpg",
+    "static/media/Picture2.669588e0.PNG": "/lontokkayo/static/media/Picture2.669588e0.PNG",
+    "static/media/Picture21.56758e31.PNG": "/lontokkayo/static/media/Picture21.56758e31.PNG",
+    "static/media/WebLog.900cbde5.png": "/lontokkayo/static/media/WebLog.900cbde5.png",
+    "static/media/addacount.c3d2fce6.PNG": "/lontokkayo/static/media/addacount.c3d2fce6.PNG",
+    "static/media/alertsound.054a61c4.mp3": "/lontokkayo/static/media/alertsound.054a61c4.mp3",
+    "static/media/back.efd74f62.png": "/lontokkayo/static/media/back.efd74f62.png",
+    "static/media/background.50a2e73c.PNG": "/lontokkayo/static/media/background.50a2e73c.PNG",
+    "static/media/App.css": "/lontokkayo/static/media/background123.d63143eb.PNG",
+    "static/media/clickExit.678c6c3f.wav": "/lontokkayo/static/media/clickExit.678c6c3f.wav",
+    "static/media/landscapeSys.62e9952e.png": "/lontokkayo/static/media/landscapeSys.62e9952e.png",
+    "static/media/logotop.170ae251.PNG": "/lontokkayo/static/media/logotop.170ae251.PNG",
+    "static/media/pic1.68af99ce.PNG": "/lontokkayo/static/media/pic1.68af99ce.PNG",
+    "static/media/resetaccount.dac00712.PNG": "/lontokkayo/static/media/resetaccount.dac00712.PNG",
+    "static/media/side.27d7b4a9.PNG": "/lontokkayo/static/media/side.27d7b4a9.PNG",
+    "static/media/silence.e4c2a937.mp3": "/lontokkayo/static/media/silence.e4c2a937.mp3",
+    "static/media/startsound.a848ef21.mp3": "/lontokkayo/static/media/startsound.a848ef21.mp3",
+    "static/media/weBLOGW.dd77743c.PNG": "/lontokkayo/static/media/weBLOGW.dd77743c.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.467ffc04.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.b4789d78.chunk.js",
+    "static/css/main.dfa66350.chunk.css",
+    "static/js/main.ad16acad.chunk.js"
+  ]
+}
